@@ -1,2 +1,2 @@
-# DAO_analytics
+# DAO analytics
 Scripts for analyzing DAOs
